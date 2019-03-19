@@ -1,0 +1,22 @@
+{
+  "name": "asyncjavascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "callback.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gwanghui/asyncJavaScript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gwanghui/asyncJavaScript/issues"
+  },
+  "homepage": "https://github.com/gwanghui/asyncJavaScript#readme",
+  "dependencies": {
+    "co": "^4.6.0"
+  }
+}
